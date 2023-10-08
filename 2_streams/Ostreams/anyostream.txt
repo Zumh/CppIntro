@@ -1,0 +1,1 @@
+writing number to stream 44 to anyostream.txt

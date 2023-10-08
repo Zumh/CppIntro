@@ -68,7 +68,7 @@ int getInteger() {
          * out of the stream once we have put the string's contents in it.
          */
         
-
+	
         /*
          * Try getting an int from the stream. If this is not succesful
          * then user input was not a valid input.
